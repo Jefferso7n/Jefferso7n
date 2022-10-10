@@ -3,7 +3,7 @@
   <a href="https://github.com/Jefferso7n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferso7n&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferso7n&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+
 
 #### My tools and languages
 
@@ -17,5 +17,6 @@
 <div> 
   <a href="https://wa.me/5561984567673" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:JeffersonFillipeGameDev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 </div>
